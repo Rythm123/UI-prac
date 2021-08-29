@@ -1,0 +1,22 @@
+
+.boxes{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box{
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    overflow: auto;
+}
+
+.boxelement{
+    margin: 10px 20px ;
+}
+
+.textAreas{
+    display: flex;
+    justify-content: space-evenly;
+}
